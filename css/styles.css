@@ -264,12 +264,6 @@ img {
     text-decoration: none;
     display: block;
   }
-
-
-    .dropbtn:hover {
-        text-decoration: none;
-    }
-
   
   .dropdown-content a:hover {background-color: #ddd;}
   
